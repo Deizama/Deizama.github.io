@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Deizama's Portfolio"
+title: "Baron Jérémy"
 email: "Bar.jeremy@laposte.net"
 description: >- # this means to ignore newlines until "baseurl:"
   Simply my portfolio ! 
-  This is were i can save and show what i did and what i learned on my previous project.
+  I'm a self-taught game programmer who always loves to learn and to solves problems. "Never stop learning".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
