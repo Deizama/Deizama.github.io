@@ -11,4 +11,4 @@ Raka Jump farther, Bliss Jump higher and Yuno can redirect his jump mid-air, whe
 
 ### Project links : 
 
-[Game on Itch.io.](https://deizama.itch.io/robot-bounds)
+[**Game on Itch.io.**](https://deizama.itch.io/robot-bounds)

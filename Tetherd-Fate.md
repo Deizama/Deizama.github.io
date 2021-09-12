@@ -13,4 +13,4 @@ I worked on the main mechanics of the game.
 
 ### Project links : 
 
-[Game on Itch.io.](https://deizama.itch.io/tetherd-fate)
+[**Game on Itch.io.**](https://deizama.itch.io/tetherd-fate)

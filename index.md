@@ -1,4 +1,4 @@
-## About me
+### About me
 
 I am a software programmer, actually living in **Lille, France**. Even though I'm not working actually in the video game industry, solving problems and team working are my everyday tasks.
 
@@ -7,7 +7,8 @@ I participated in multiple gamejams and did multiple projects with problem solvi
 
 **I'm searching to work in a video game company or to collaborate in gamejams or projects, so i can always learn new things.**
 
-## Skills
+
+### Skills
 
 ```
 
@@ -21,40 +22,23 @@ Engines and tools :
 
 ```
 
-## Game projects
+
+### Game projects
 
 | Robot Bounds | [![Robot-Bounds](https://deizama.eu/sites/default/files/styles/large/public/2021-03/Robot-Bounds.PNG?itok=6mnBeHdA)](https://deizama.github.io/Robot-Bounds) |
 | Elements 2D | [![Elements-2D](http://image.noelshack.com/fichiers/2021/36/7/1631457867-elements-2d.png)](https://deizama.github.io/Elements-2D) |
 | Tether'd Fate | [![Tether'd-Fate](http://image.noelshack.com/fichiers/2021/36/7/1631457861-tether-d-fate.png)](https://deizama.github.io/Tetherd-Fate) |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other projects
 
-```markdown
-Syntax highlighted code block
+| Star vs Moon | [Star vs Moon was made during the Trijam #125 in 3 hours. This project was made on Unity in a team of 2.](https://deizama.itch.io/star-vs-moon) |
+| Bot Hora | [Bot Hora is a Discord Bot that let you catch pokemon depending on the channel, rename them or even evolve them. All datas (player and pokémons) are stored on an SQL Database.](https://deizama.eu/sites/default/files/styles/large/public/2020-09/unknown.png?itok=LemIgWg_) |
+| Faralor | [Faralor is a tabletop project made in 2011 and updated since then. The system was made by me and there is multiple automatized google sheet to help you create your character.](https://docs.google.com/spreadsheets/d/1Z7evxr8rXiVAM-4jy1GoGuXCd2RLmrpRc-iH80rAuT8/edit?usp=sharing) |
+| 4 Players Pong | My really first project made with XNA. It's a simple pong game that let you play up to 4 players in local.|
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Courses
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deizama/Deizama.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Creator kit RPG | [A course that let you learn of the basics of a RPG Game. It teach Quests, dialogues and movements.](https://learn.unity.com/project/creator-kit-rpg) |
+| Ruby's adventure | [A more complete course, where you can learn inputs, tilesets, animation, scripting, particles, audio and much more.](https://learn.unity.com/project/ruby-s-2d-rpg) |
