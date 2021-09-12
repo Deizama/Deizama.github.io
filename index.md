@@ -24,8 +24,8 @@ Engines and tools :
 ## Game projects
 
 | Robot Bounds | [![Robot-Bounds](https://deizama.eu/sites/default/files/styles/large/public/2021-03/Robot-Bounds.PNG?itok=6mnBeHdA)](https://deizama.github.io/Robot-Bounds) |
-| Elements 2D | [![Elements-2D](https://winheb02.ikoula.com:8443/smb/file-manager/show-image/?file=Elements%202D.png)](https://deizama.github.io/Elements-2D) |
-| Tether'd Fate | [![Tether'd-Fate](https://winheb02.ikoula.com:8443/smb/file-manager/show-image/?file=Tether'd%20Fate.png)](https://deizama.github.io/Tetherd-Fate) |
+| Elements 2D | [![Elements-2D](http://image.noelshack.com/fichiers/2021/36/7/1631457867-elements-2d.png)](https://deizama.github.io/Elements-2D) |
+| Tether'd Fate | [![Tether'd-Fate](http://image.noelshack.com/fichiers/2021/36/7/1631457861-tether-d-fate.png)](https://deizama.github.io/Tetherd-Fate) |
 
 ### Markdown
 
